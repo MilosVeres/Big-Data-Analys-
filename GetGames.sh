@@ -38,4 +38,4 @@ for i in {1925..2017}
 		rm temp3
 		rm ${i}games
 		rm game_info
-    
+		
